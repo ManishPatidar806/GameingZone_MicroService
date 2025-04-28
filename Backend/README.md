@@ -62,23 +62,9 @@ The system follows a microservices architecture, with multiple services communic
 - Payments are securely processed using Stripe Payment Gateway.
 - The system is monitored using Codecentric Admin Server to ensure service availability and health checks.
 
-## Installation & Setup
-
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/ManishPatidar806/Gaming_Ecommerce_Microservice.git
-    ```
-2. Navigate to the project directory and set up each microservice.
-3. Configure the database in `application.properties`.
-4. Start the Service Registry (Eureka Server) first.
-5. Start the microservices one by one.
-6. Start the API Gateway.
 
 ## Deployment
 
 The microservices are deployed on Render, with a single instance running different services on separate ports.
 
 
-## License
-
-This project is open-source and available under the MIT License.
