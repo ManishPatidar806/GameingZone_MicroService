@@ -16,6 +16,9 @@ GamingZone is a comprehensive e-commerce platform designed for purchasing gaming
 - Service monitoring and health checks with Codecentric Admin Server  
 
 ---
+## Demo
+https://www.youtube.com/watch?v=FbfOR_Gs9-c
+
 
 ## Frontend  
 
