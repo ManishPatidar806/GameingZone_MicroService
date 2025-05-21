@@ -17,7 +17,7 @@ GamingZone is a comprehensive e-commerce platform designed for purchasing gaming
 
 ---
 ## Demo
-https://www.youtube.com/watch?v=FbfOR_Gs9-c
+https://youtu.be/P8NVCsGNVX4
 
 
 ## Frontend  
